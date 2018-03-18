@@ -105,7 +105,7 @@ Reference System** (CRS) being used. We are going to go into more detail about
 Coordinate Reference Systems in a later tutorial. For now let's simply say that
 a CRS is a way to accurately describe where a particular place is on the earth's
 surface. One of the most common reference systems is **Longitude and Latitude**.
-Lines of Longitude run from the North Pole to the South Pole. Lines of Latitude
+Lines of Latitude run from the North Pole to the South Pole. Lines of Longitude
 run from the East to West. You can describe precisely where you are at any place
 on the earth by giving someone your Longitude (X) and Latitude (Y). If you make
 a similar measurement for a tree or a telephone pole and marked it on a map, you
